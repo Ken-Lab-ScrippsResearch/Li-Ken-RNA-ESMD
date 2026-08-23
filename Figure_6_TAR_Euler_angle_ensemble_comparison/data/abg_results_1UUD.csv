@@ -1,0 +1,2 @@
+conformer,ok,h1_rmsd,h2_rmsd,alpha,beta,abs_beta,gamma,zeta_alpha_plus_gamma,stderr
+receptor_1,1,0.98,1.33,-7.043,16.204,16.204,-7.053,-14.096,
